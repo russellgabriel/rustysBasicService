@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Rustys Basic Service">0fae09ee4fd99a0012aae1d18110c760</category>
+        <order>1</order>
+        <property display_value="x_snc_rustys_basic.default.end.time" name="x_snc_rustys_basic.default.end.time">eb8ec5ee4fd99a0012aae1d18110c71b</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>russell.gabriel</sys_created_by>
+        <sys_created_on>2016-02-03 17:07:25</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>0bae09ee4fd99a0012aae1d18110c761</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_rustys_basic.default.end.time.Rustys Basic Service</sys_name>
+        <sys_package display_value="Rustys Basic Service" source="x_snc_rustys_basic">b57e01ae4fd99a0012aae1d18110c7ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rustys Basic Service">b57e01ae4fd99a0012aae1d18110c7ce</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_0bae09ee4fd99a0012aae1d18110c761</sys_update_name>
+        <sys_updated_by>russell.gabriel</sys_updated_by>
+        <sys_updated_on>2016-02-03 17:07:25</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

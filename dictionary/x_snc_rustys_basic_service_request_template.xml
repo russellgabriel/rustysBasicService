@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_serviceorder_product_model" label="Rustys Basic Service Request Template" max_length="40" name="x_snc_rustys_basic_service_request_template" type="collection"/>
+</database>

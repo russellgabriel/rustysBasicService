@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="discovery_schedule">
+    <discovery_schedule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <behavior/>
+        <ci_id/>
+        <ci_type/>
+        <condition/>
+        <conditional>false</conditional>
+        <disco_run_type>daily</disco_run_type>
+        <discover>CIs</discover>
+        <even_if_canceled>true</even_if_canceled>
+        <include_alive>false</include_alive>
+        <location/>
+        <log_state_changes>false</log_state_changes>
+        <max_run/>
+        <mid_server display_value="test">9378db2f137212404a4754c32244b069</mid_server>
+        <name>test</name>
+        <run_after/>
+        <run_as display_value="Russell Gabriel">0f4eb81e4f959a0012aae1d18110c7fc</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2016-04-21 19:17:30</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[var rt = new global.DiscoveryScheduleRunType(current.disco_run_type + ''); if (rt.match() || new global.DiscoveryJob(job).isRunOnce()) { var dd = new global.Discovery(); dd.discoveryStartJob(); }]]></script>
+        <service_discovery>ci_type</service_discovery>
+        <shazzam_batch_size>5000</shazzam_batch_size>
+        <shazzam_cluster_support>true</shazzam_cluster_support>
+        <sys_class_name>discovery_schedule</sys_class_name>
+        <sys_created_by>russell.gabriel</sys_created_by>
+        <sys_created_on>2016-04-21 19:17:45</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c578db2f137212404a4754c32244b02a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Rustys Basic Service" source="x_snc_rustys_basic">b57e01ae4fd99a0012aae1d18110c7ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rustys Basic Service">b57e01ae4fd99a0012aae1d18110c7ce</sys_scope>
+        <sys_update_name>discovery_schedule_c578db2f137212404a4754c32244b02a</sys_update_name>
+        <sys_updated_by>russell.gabriel</sys_updated_by>
+        <sys_updated_on>2016-04-21 19:17:45</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+        <use_snmp_version>v1_v2c</use_snmp_version>
+    </discovery_schedule>
+</record_update>

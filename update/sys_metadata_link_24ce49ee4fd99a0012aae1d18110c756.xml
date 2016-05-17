@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>cdbe09ee4fd99a0012aae1d18110c7d1</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update sys_domain="global" table="kb_knowledge"&gt;
+    &lt;kb_knowledge action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;article_type&gt;text&lt;/article_type&gt;
+        &lt;author display_value="Russell Gabriel"&gt;0f4eb81e4f959a0012aae1d18110c7fc&lt;/author&gt;
+        &lt;category/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;description/&gt;
+        &lt;direct&gt;false&lt;/direct&gt;
+        &lt;disable_commenting&gt;false&lt;/disable_commenting&gt;
+        &lt;disable_suggesting&gt;false&lt;/disable_suggesting&gt;
+        &lt;display_attachments&gt;false&lt;/display_attachments&gt;
+        &lt;flagged&gt;false&lt;/flagged&gt;
+        &lt;image/&gt;
+        &lt;kb_category/&gt;
+        &lt;kb_knowledge_base display_value="Rustys Basic Service Knowledge"&gt;cdbe09ee4fd99a0012aae1d18110c7ce&lt;/kb_knowledge_base&gt;
+        &lt;meta/&gt;
+        &lt;number&gt;KB0010001&lt;/number&gt;
+        &lt;published&gt;2016-02-03&lt;/published&gt;
+        &lt;rating/&gt;
+        &lt;retired/&gt;
+        &lt;roles/&gt;
+        &lt;short_description&gt;Rustys Basic Service Knowledge&lt;/short_description&gt;
+        &lt;source/&gt;
+        &lt;sys_class_name&gt;kb_knowledge&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;russell.gabriel&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2016-02-03 17:07:33&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;cdbe09ee4fd99a0012aae1d18110c7d1&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;russell.gabriel&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2016-02-03 17:07:33&lt;/sys_updated_on&gt;
+        &lt;sys_view_count&gt;0&lt;/sys_view_count&gt;
+        &lt;text&gt;&lt;![CDATA[A knowledge example for Rustys Basic Service Knowledge. In Knowlege base module you can modify this text or define more articles like these. The knowleddge pages can be article, blog, or wiki pages and they all are searchable.]]&gt;&lt;/text&gt;
+        &lt;topic&gt;General&lt;/topic&gt;
+        &lt;use_count&gt;0&lt;/use_count&gt;
+        &lt;valid_to&gt;2020-01-01&lt;/valid_to&gt;
+        &lt;wiki/&gt;
+        &lt;workflow_state&gt;draft&lt;/workflow_state&gt;
+    &lt;/kb_knowledge&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=cdbe09ee4fd99a0012aae1d18110c7d1"/&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>russell.gabriel</sys_created_by>
+        <sys_created_on>2016-02-03 17:07:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>24ce49ee4fd99a0012aae1d18110c756</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB0010001</sys_name>
+        <sys_package display_value="Rustys Basic Service" source="x_snc_rustys_basic">b57e01ae4fd99a0012aae1d18110c7ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rustys Basic Service">b57e01ae4fd99a0012aae1d18110c7ce</sys_scope>
+        <sys_update_name>sys_metadata_link_24ce49ee4fd99a0012aae1d18110c756</sys_update_name>
+        <sys_updated_by>russell.gabriel</sys_updated_by>
+        <sys_updated_on>2016-02-03 17:07:48</sys_updated_on>
+        <tablename>kb_knowledge</tablename>
+    </sys_metadata_link>
+</record_update>

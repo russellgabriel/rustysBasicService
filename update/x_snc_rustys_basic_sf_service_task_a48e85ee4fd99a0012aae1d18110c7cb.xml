@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_rustys_basic_sf_service_task">
+    <x_snc_rustys_basic_sf_service_task action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <automatic_condition/>
+        <automatic_roles/>
+        <automatic_script><![CDATA[// when cancelling a task, clean up part sourcing data and clear all dependencies
+var taskManager = new global.SMTask();
+taskManager.cancelTransfers(current);
+taskManager.clearDependencies(current);]]></automatic_script>
+        <automatic_string>current.state.changes()</automatic_string>
+        <business_rule display_value="Cancel Cleanup">e48e85ee4fd99a0012aae1d18110c7cb</business_rule>
+        <change_client_script/>
+        <client_script/>
+        <comment>Rustys Basic Service Request State flow</comment>
+        <derived_from display_value="Cancel Cleanup">e5feb353df312100dca6a5f59bf263e4</derived_from>
+        <end_text/>
+        <ending_state/>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition/>
+        <manual_roles/>
+        <manual_script/>
+        <manual_string/>
+        <name>Cancel Cleanup</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010015</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>7</start_text>
+        <starting_state display_value="Cancelled">f27e85ee4fd99a0012aae1d18110c780</starting_state>
+        <sys_class_name>x_snc_rustys_basic_sf_service_task</sys_class_name>
+        <sys_created_by>russell.gabriel</sys_created_by>
+        <sys_created_on>2016-02-03 17:06:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a48e85ee4fd99a0012aae1d18110c7cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cancel Cleanup</sys_name>
+        <sys_package display_value="Rustys Basic Service" source="x_snc_rustys_basic">b57e01ae4fd99a0012aae1d18110c7ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rustys Basic Service">b57e01ae4fd99a0012aae1d18110c7ce</sys_scope>
+        <sys_update_name>x_snc_rustys_basic_sf_service_task_a48e85ee4fd99a0012aae1d18110c7cb</sys_update_name>
+        <sys_updated_by>russell.gabriel</sys_updated_by>
+        <sys_updated_on>2016-02-03 17:06:42</sys_updated_on>
+        <table>x_snc_rustys_basic_service_task</table>
+        <translated_ending_state/>
+        <translated_starting_state/>
+        <ui_action/>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </x_snc_rustys_basic_sf_service_task>
+</record_update>

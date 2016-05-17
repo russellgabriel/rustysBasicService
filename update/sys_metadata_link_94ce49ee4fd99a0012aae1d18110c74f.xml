@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>227e85ee4fd99a0012aae1d18110c77c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_snc_rustys_basic_service_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Rustys Basic Service Request initiator is not done describing the work</hint>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_snc_rustys_basic_service_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:06:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>227e85ee4fd99a0012aae1d18110c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:06:33</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Task is ready to be assigned</hint>
+            <inactive>false</inactive>
+            <label>Pending Assignment</label>
+            <language>en</language>
+            <name>x_snc_rustys_basic_service_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:06:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e7e85ee4fd99a0012aae1d18110c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:06:33</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Task is assigned, pending agent acceptance</hint>
+            <inactive>false</inactive>
+            <label>Assigned</label>
+            <language>en</language>
+            <name>x_snc_rustys_basic_service_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:06:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a67e85ee4fd99a0012aae1d18110c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:06:33</sys_updated_on>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Task is assigned, acknowledged and pending work to start</hint>
+            <inactive>false</inactive>
+            <label>Accepted</label>
+            <language>en</language>
+            <name>x_snc_rustys_basic_service_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:06:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee7e85ee4fd99a0012aae1d18110c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:06:34</sys_updated_on>
+            <value>17</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Work has started</hint>
+            <inactive>false</inactive>
+            <label>Work In Progress</label>
+            <language>en</language>
+            <name>x_snc_rustys_basic_service_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:06:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a7e85ee4fd99a0012aae1d18110c77e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:06:34</sys_updated_on>
+            <value>18</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Work has been completed to specification</hint>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_snc_rustys_basic_service_task</name>
+            <sequence>5</sequence>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:06:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>627e85ee4fd99a0012aae1d18110c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:06:34</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Work could not be completed as specified</hint>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_snc_rustys_basic_service_task</name>
+            <sequence>6</sequence>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:06:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa7e85ee4fd99a0012aae1d18110c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:06:34</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Task has been cancelled</hint>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_snc_rustys_basic_service_task</name>
+            <sequence>7</sequence>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:06:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f27e85ee4fd99a0012aae1d18110c780</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:06:34</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_snc_rustys_basic_service_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:06:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2a7e85ee4fd99a0012aae1d18110c77c</sys_id>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Rustys Basic Service" source="x_snc_rustys_basic">b57e01ae4fd99a0012aae1d18110c7ce</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Rustys Basic Service">b57e01ae4fd99a0012aae1d18110c7ce</sys_scope>
+            <sys_update_name>sys_choice_x_snc_rustys_basic_service_task_state</sys_update_name>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>russell.gabriel</sys_created_by>
+        <sys_created_on>2016-02-03 17:07:46</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>94ce49ee4fd99a0012aae1d18110c74f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Draft</sys_name>
+        <sys_package display_value="Rustys Basic Service" source="x_snc_rustys_basic">b57e01ae4fd99a0012aae1d18110c7ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rustys Basic Service">b57e01ae4fd99a0012aae1d18110c7ce</sys_scope>
+        <sys_update_name>sys_metadata_link_94ce49ee4fd99a0012aae1d18110c74f</sys_update_name>
+        <sys_updated_by>russell.gabriel</sys_updated_by>
+        <sys_updated_on>2016-02-03 17:07:46</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

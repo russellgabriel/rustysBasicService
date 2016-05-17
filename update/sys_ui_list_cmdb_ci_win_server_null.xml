@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_win_server" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_win_server" element="NULL" name="cmdb_ci_win_server" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">71cc6de04f21120012aae1d18110c703</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-02-10 00:26:47</sys_created_on>
+            <sys_id>b1cc6de04f21120012aae1d18110c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-02-10 00:26:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>os</element>
+            <list_id display_value="cmdb_ci_win_server" element="NULL" name="cmdb_ci_win_server" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">71cc6de04f21120012aae1d18110c703</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-02-10 00:26:47</sys_created_on>
+            <sys_id>f1cc6de04f21120012aae1d18110c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-02-10 00:26:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>os_version</element>
+            <list_id display_value="cmdb_ci_win_server" element="NULL" name="cmdb_ci_win_server" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">71cc6de04f21120012aae1d18110c703</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-02-10 00:26:47</sys_created_on>
+            <sys_id>35cc6de04f21120012aae1d18110c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-02-10 00:26:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_win_server</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-04-18 21:40:59</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d8c1c3613b2de004a4754c32244b0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_win_server</sys_name>
+            <sys_package display_value="Rustys Basic Service" source="x_snc_rustys_basic">b57e01ae4fd99a0012aae1d18110c7ce</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Rustys Basic Service">b57e01ae4fd99a0012aae1d18110c7ce</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_win_server_null</sys_update_name>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-04-18 21:40:59</sys_updated_on>
+            <sys_user display_value="Russell Gabriel">0f4eb81e4f959a0012aae1d18110c7fc</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_order" label="Rustys Basic Service Request" max_length="40" name="x_snc_rustys_basic_service_request" sizeclass="1" type="collection"/>
+</database>

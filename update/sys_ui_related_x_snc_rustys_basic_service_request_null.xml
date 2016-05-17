@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_rustys_basic_service_request" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Rustys Basic Service Request - Default view" name="x_snc_rustys_basic_service_request" related_list="NULL" sys_domain="global" view="Default view">69be09ee4fd99a0012aae1d18110c7dc</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:35</sys_created_on>
+            <sys_id>3dbe09ee4fd99a0012aae1d18110c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:35</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Rustys Basic Service Request - Default view" name="x_snc_rustys_basic_service_request" related_list="NULL" sys_domain="global" view="Default view">69be09ee4fd99a0012aae1d18110c7dc</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_snc_rustys_basic_service_task.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:35</sys_created_on>
+            <sys_id>35be09ee4fd99a0012aae1d18110c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:35</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Rustys Basic Service Request - Default view" name="x_snc_rustys_basic_service_request" related_list="NULL" sys_domain="global" view="Default view">69be09ee4fd99a0012aae1d18110c7dc</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:9d3ffe10df221100dca6a5f59bf2637a</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:35</sys_created_on>
+            <sys_id>bdbe09ee4fd99a0012aae1d18110c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:35</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Rustys Basic Service Request - Default view" name="x_snc_rustys_basic_service_request" related_list="NULL" sys_domain="global" view="Default view">69be09ee4fd99a0012aae1d18110c7dc</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:35</sys_created_on>
+            <sys_id>b5be09ee4fd99a0012aae1d18110c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:35</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Rustys Basic Service Request - Default view" name="x_snc_rustys_basic_service_request" related_list="NULL" sys_domain="global" view="Default view">69be09ee4fd99a0012aae1d18110c7dc</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>dms_document.service_order</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:35</sys_created_on>
+            <sys_id>31be09ee4fd99a0012aae1d18110c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:35</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Rustys Basic Service Request - Default view" name="x_snc_rustys_basic_service_request" related_list="NULL" sys_domain="global" view="Default view">69be09ee4fd99a0012aae1d18110c7dc</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:35</sys_created_on>
+            <sys_id>39be09ee4fd99a0012aae1d18110c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:35</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Rustys Basic Service Request - Default view" name="x_snc_rustys_basic_service_request" related_list="NULL" sys_domain="global" view="Default view">69be09ee4fd99a0012aae1d18110c7dc</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>task_activity.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:35</sys_created_on>
+            <sys_id>b1be09ee4fd99a0012aae1d18110c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:35</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Rustys Basic Service Request - Default view</calculated_name>
+            <filter/>
+            <name>x_snc_rustys_basic_service_request</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:35</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69be09ee4fd99a0012aae1d18110c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rustys Basic Service Request - Default view</sys_name>
+            <sys_package display_value="Rustys Basic Service" source="x_snc_rustys_basic">b57e01ae4fd99a0012aae1d18110c7ce</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Rustys Basic Service">b57e01ae4fd99a0012aae1d18110c7ce</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_rustys_basic_service_request_null</sys_update_name>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

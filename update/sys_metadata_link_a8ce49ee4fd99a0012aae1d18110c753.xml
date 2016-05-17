@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4e8ec5ee4fd99a0012aae1d18110c712</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="Rustys Basic Service Assignment" name="Rustys Basic Service Assignment">8e8ec5ee4fd99a0012aae1d18110c711</group>
+        <inherits>true</inherits>
+        <role display_value="x_snc_rustys_basic_agent" name="x_snc_rustys_basic_agent">367e85ee4fd99a0012aae1d18110c781</role>
+        <sys_created_by>russell.gabriel</sys_created_by>
+        <sys_created_on>2016-02-03 17:06:47</sys_created_on>
+        <sys_id>4e8ec5ee4fd99a0012aae1d18110c712</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>russell.gabriel</sys_updated_by>
+        <sys_updated_on>2016-02-03 17:06:47</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>russell.gabriel</sys_created_by>
+        <sys_created_on>2016-02-03 17:07:47</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a8ce49ee4fd99a0012aae1d18110c753</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2016-02-03 09:06:47</sys_name>
+        <sys_package display_value="Rustys Basic Service" source="x_snc_rustys_basic">b57e01ae4fd99a0012aae1d18110c7ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rustys Basic Service">b57e01ae4fd99a0012aae1d18110c7ce</sys_scope>
+        <sys_update_name>sys_metadata_link_a8ce49ee4fd99a0012aae1d18110c753</sys_update_name>
+        <sys_updated_by>russell.gabriel</sys_updated_by>
+        <sys_updated_on>2016-02-03 17:07:47</sys_updated_on>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>

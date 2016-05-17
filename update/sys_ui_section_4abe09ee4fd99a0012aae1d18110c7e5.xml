@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="4abe09ee4fd99a0012aae1d18110c7e5" sys_domain="global" table="x_snc_rustys_basic_sf_service_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>0ebe09ee4fd99a0012aae1d18110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>4ebe09ee4fd99a0012aae1d18110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <position>2</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>8ebe09ee4fd99a0012aae1d18110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starting_state</element>
+            <position>3</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>cebe09ee4fd99a0012aae1d18110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ending_state</element>
+            <position>4</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>02be09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>client_script</element>
+            <position>5</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>42be09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>event</element>
+            <position>6</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>82be09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>c2be09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>8</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>06be09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>roles</element>
+            <position>9</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>46be09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>10</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>86be09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <position>11</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>c6be09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>override</element>
+            <position>12</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>0abe09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>not_visible</element>
+            <position>13</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>4abe09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>14</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>8abe09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>15</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>cabe09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comment</element>
+            <position>16</position>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_id>0ebe09ee4fd99a0012aae1d18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rustys_basic_sf_service_task" sys_domain="global" view="Default view">4abe09ee4fd99a0012aae1d18110c7e5</sys_ui_section>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_rustys_basic_sf_service_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>russell.gabriel</sys_created_by>
+            <sys_created_on>2016-02-03 17:07:37</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4abe09ee4fd99a0012aae1d18110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_rustys_basic_sf_service_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rustys Basic Service" source="x_snc_rustys_basic">b57e01ae4fd99a0012aae1d18110c7ce</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Rustys Basic Service">b57e01ae4fd99a0012aae1d18110c7ce</sys_scope>
+            <sys_update_name>sys_ui_section_4abe09ee4fd99a0012aae1d18110c7e5</sys_update_name>
+            <sys_updated_by>russell.gabriel</sys_updated_by>
+            <sys_updated_on>2016-02-03 17:07:37</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
